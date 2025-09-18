@@ -1,4 +1,16 @@
 <?php
+/**
+ * ATENÇÃO — USO RESTRITO AO PAINEL DO MANAGEWP
+ *
+ * Este código foi desenvolvido para ser executado exclusivamente como um *snippet* dentro do painel do ManageWP (Worker).
+ * O ambiente do ManageWP garante que o código será executado de forma segura, autenticada e não acessível publicamente.
+ *
+ * ⚠️ NUNCA salve este código em um arquivo .php dentro do seu site ou servidor.
+ * Se este código for exposto publicamente por URL, ele permitirá elevação de privilégios e acesso administrativo completo ao site.
+ *
+ * ✅ Use somente no painel do ManageWP, que protege a execução e impede acesso externo não autorizado.
+ */
+
 // UpdraftPlus via ManageWP Code Snippets — força disparo imediato com múltiplos caminhos + diagnóstico
 
 ignore_user_abort(true);
